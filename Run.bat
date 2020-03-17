@@ -1,6 +1,6 @@
 @echo off
 :START
 cls
-NODE index.js
+NODE main.js
 pause
 goto START
