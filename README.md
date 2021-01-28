@@ -1,2 +1,2 @@
 # Elenore
-Elenore - Multi-use Discord Bot.
+Elenore - Multi-purpose Discord Bot.
